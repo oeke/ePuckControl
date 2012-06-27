@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, EPuckControlActivity!</string>
+    <string name="app_name">EPuckControl</string>
+    <string name="val1">1001</string>
+    <string name="val2">1001</string>
+    <string name="escape">exit</string>
+
+</resources>
